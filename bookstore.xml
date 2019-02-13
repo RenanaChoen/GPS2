@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookstore location="Frankfurt Airport" name="Fraport Bookstore">
+    <book>
+        <author>Neil Strauss</author>
+        <name>The Game</name>
+        <publisher>Harpercollins</publisher>
+    </book>
+    <book>
+        <author>Charlotte Roche</author>
+        <name>Feuchtgebiete</name>
+        <publisher>Dumont Buchverlag</publisher>
+    </book>
+</bookstore>
